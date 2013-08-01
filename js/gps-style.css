@@ -1,0 +1,43 @@
+/* 
+    Document   : gps-style
+    Created on : Jul 11, 2013, 11:19:47 AM
+    Author     : ken
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+        .intBox 
+        {
+            width: 35px;
+            border: 1px solid lightblue;
+        }
+        
+        .intBoxEdit 
+        {
+            width: 35px;
+            border: 1px solid lightblue;
+        }
+
+        .floatBox
+        {
+            width: 80px;
+            border: 1px solid lightblue;
+        }
+        
+        .floatBoxEdit
+        {
+            width: 80px;
+            border: 1px solid lightblue;
+        }
+
+        .dirDropdown 
+        {
+            width: 60px;
+            border: 1px solid lightblue;
+        }
+      
+        .dirDropdownEdit 
+        {
+            width: 60px;
+            border: 1px solid lightblue;
+        }
